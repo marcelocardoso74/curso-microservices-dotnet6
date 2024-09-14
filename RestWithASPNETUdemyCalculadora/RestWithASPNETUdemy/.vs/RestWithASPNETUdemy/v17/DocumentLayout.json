@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet6\\RestWithASPNETUdemyCalculadora\\RestWithASPNETUdemy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCA849D-C83F-4CE7-BF84-ADC612384B03}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\c\u00F3digos git\\curso-microservices-dotnet6\\restwithaspnetudemycalculadora\\restwithaspnetudemy\\restwithaspnetudemy\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCA849D-C83F-4CE7-BF84-ADC612384B03}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCA849D-C83F-4CE7-BF84-ADC612384B03}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\c\u00F3digos git\\curso-microservices-dotnet6\\restwithaspnetudemycalculadora\\restwithaspnetudemy\\restwithaspnetudemy\\restwithaspnetudemy.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DDCA849D-C83F-4CE7-BF84-ADC612384B03}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\restwithaspnetudemy.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestWithASPNETUdemy.http",
+              "DocumentMoniker": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet6\\RestWithASPNETUdemyCalculadora\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.http",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\RestWithASPNETUdemy.http",
+              "ToolTip": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet6\\RestWithASPNETUdemyCalculadora\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.http",
+              "RelativeToolTip": "RestWithASPNETUdemy\\RestWithASPNETUdemy.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-13T16:44:40.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet6\\RestWithASPNETUdemyCalculadora\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet6\\RestWithASPNETUdemyCalculadora\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwFoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:53:43.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

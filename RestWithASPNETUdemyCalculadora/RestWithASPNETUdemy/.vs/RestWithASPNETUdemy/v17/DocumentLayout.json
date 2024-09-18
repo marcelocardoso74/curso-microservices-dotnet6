@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet6\\RestWithASPNETUdemyCalculadora\\RestWithASPNETUdemy\\",
+  "WorkspaceRootPath": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\RestWithASPNETUdemyCalculadora\\RestWithASPNETUdemy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDCA849D-C83F-4CE7-BF84-ADC612384B03}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\c\u00F3digos git\\curso-microservices-dotnet6\\restwithaspnetudemycalculadora\\restwithaspnetudemy\\restwithaspnetudemy\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDCA849D-C83F-4CE7-BF84-ADC612384B03}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDCA849D-C83F-4CE7-BF84-ADC612384B03}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\c\u00F3digos git\\curso-microservices-dotnet\\restwithaspnetudemycalculadora\\restwithaspnetudemy\\restwithaspnetudemy\\services\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCA849D-C83F-4CE7-BF84-ADC612384B03}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\services\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDCA849D-C83F-4CE7-BF84-ADC612384B03}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\c\u00F3digos git\\curso-microservices-dotnet6\\restwithaspnetudemycalculadora\\restwithaspnetudemy\\restwithaspnetudemy\\restwithaspnetudemy.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{DDCA849D-C83F-4CE7-BF84-ADC612384B03}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\restwithaspnetudemy.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{DDCA849D-C83F-4CE7-BF84-ADC612384B03}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\c\u00F3digos git\\curso-microservices-dotnet\\restwithaspnetudemycalculadora\\restwithaspnetudemy\\restwithaspnetudemy\\services\\implementations\\personserviceimplementations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCA849D-C83F-4CE7-BF84-ADC612384B03}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\services\\implementations\\personserviceimplementations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCA849D-C83F-4CE7-BF84-ADC612384B03}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\c\u00F3digos git\\curso-microservices-dotnet\\restwithaspnetudemycalculadora\\restwithaspnetudemy\\restwithaspnetudemy\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCA849D-C83F-4CE7-BF84-ADC612384B03}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCA849D-C83F-4CE7-BF84-ADC612384B03}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\c\u00F3digos git\\curso-microservices-dotnet\\restwithaspnetudemycalculadora\\restwithaspnetudemy\\restwithaspnetudemy\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCA849D-C83F-4CE7-BF84-ADC612384B03}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RestWithASPNETUdemy.http",
-              "DocumentMoniker": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet6\\RestWithASPNETUdemyCalculadora\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.http",
-              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\RestWithASPNETUdemy.http",
-              "ToolTip": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet6\\RestWithASPNETUdemyCalculadora\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.http",
-              "RelativeToolTip": "RestWithASPNETUdemy\\RestWithASPNETUdemy.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-09-13T16:44:40.913Z"
+              "Title": "PersonServiceImplementations.cs",
+              "DocumentMoniker": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\RestWithASPNETUdemyCalculadora\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Services\\Implementations\\PersonServiceImplementations.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Services\\Implementations\\PersonServiceImplementations.cs",
+              "ToolTip": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\RestWithASPNETUdemyCalculadora\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Services\\Implementations\\PersonServiceImplementations.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Services\\Implementations\\PersonServiceImplementations.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T16:09:43.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\RestWithASPNETUdemyCalculadora\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\RestWithASPNETUdemyCalculadora\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAADwv0MAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:53:43.415Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CalculatorController.cs",
-              "DocumentMoniker": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet6\\RestWithASPNETUdemyCalculadora\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\CalculatorController.cs",
-              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Controllers\\CalculatorController.cs",
-              "ToolTip": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet6\\RestWithASPNETUdemyCalculadora\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\CalculatorController.cs",
-              "RelativeToolTip": "RestWithASPNETUdemy\\Controllers\\CalculatorController.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAwwFoAAAANAAAAAAAAAA==",
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\RestWithASPNETUdemyCalculadora\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Services\\IPersonService.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Services\\IPersonService.cs",
+              "ToolTip": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\RestWithASPNETUdemyCalculadora\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Services\\IPersonService.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Services\\IPersonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T15:53:43.415Z",
+              "WhenOpened": "2024-09-14T14:48:18.129Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\RestWithASPNETUdemyCalculadora\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Model\\Person.cs",
+              "ToolTip": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\RestWithASPNETUdemyCalculadora\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Model\\Person.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Model\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:44:04.334Z"
             }
           ]
         }

@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S8-MicroServices_DorNet6_OrganizingMyFisrtMicroServiceArchiteture\\geekShopping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74295482-0BDD-40ED-8AAB-A2DB930B92F9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|c:\\c\u00F3digos git\\curso-microservices-dotnet\\s8-microservices_dornet6_organizingmyfisrtmicroservicearchiteture\\geekshopping\\geekshopping.productapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74295482-0BDD-40ED-8AAB-A2DB930B92F9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74295482-0BDD-40ED-8AAB-A2DB930B92F9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|c:\\c\u00F3digos git\\curso-microservices-dotnet\\s8-microservices_dornet6_organizingmyfisrtmicroservicearchiteture\\geekshopping\\geekshopping.productapi\\model\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74295482-0BDD-40ED-8AAB-A2DB930B92F9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\model\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74295482-0BDD-40ED-8AAB-A2DB930B92F9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|c:\\c\u00F3digos git\\curso-microservices-dotnet\\s8-microservices_dornet6_organizingmyfisrtmicroservicearchiteture\\geekshopping\\geekshopping.productapi\\migrations\\20240918171609_addproductdatatableondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74295482-0BDD-40ED-8AAB-A2DB930B92F9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\migrations\\20240918171609_addproductdatatableondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74295482-0BDD-40ED-8AAB-A2DB930B92F9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|c:\\c\u00F3digos git\\curso-microservices-dotnet\\s8-microservices_dornet6_organizingmyfisrtmicroservicearchiteture\\geekshopping\\geekshopping.productapi\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74295482-0BDD-40ED-8AAB-A2DB930B92F9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74295482-0BDD-40ED-8AAB-A2DB930B92F9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|c:\\c\u00F3digos git\\curso-microservices-dotnet\\s8-microservices_dornet6_organizingmyfisrtmicroservicearchiteture\\geekshopping\\geekshopping.productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74295482-0BDD-40ED-8AAB-A2DB930B92F9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20240918171609_AddProductDataTableOnDB.cs",
-              "DocumentMoniker": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S8-MicroServices_DorNet6_OrganizingMyFisrtMicroServiceArchiteture\\geekShopping\\GeekShopping.ProductAPI\\Migrations\\20240918171609_AddProductDataTableOnDB.cs",
-              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Migrations\\20240918171609_AddProductDataTableOnDB.cs",
-              "ToolTip": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S8-MicroServices_DorNet6_OrganizingMyFisrtMicroServiceArchiteture\\geekShopping\\GeekShopping.ProductAPI\\Migrations\\20240918171609_AddProductDataTableOnDB.cs",
-              "RelativeToolTip": "GeekShopping.ProductAPI\\Migrations\\20240918171609_AddProductDataTableOnDB.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T17:16:09.469Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S8-MicroServices_DorNet6_OrganizingMyFisrtMicroServiceArchiteture\\geekShopping\\GeekShopping.ProductAPI\\Model\\Product.cs",
-              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Model\\Product.cs",
-              "ToolTip": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S8-MicroServices_DorNet6_OrganizingMyFisrtMicroServiceArchiteture\\geekShopping\\GeekShopping.ProductAPI\\Model\\Product.cs",
-              "RelativeToolTip": "GeekShopping.ProductAPI\\Model\\Product.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA7wBYAAAAAAAAAAAAAAA==",
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S8-MicroServices_DorNet6_OrganizingMyFisrtMicroServiceArchiteture\\geekShopping\\GeekShopping.ProductAPI\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S8-MicroServices_DorNet6_OrganizingMyFisrtMicroServiceArchiteture\\geekShopping\\GeekShopping.ProductAPI\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "GeekShopping.ProductAPI\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T16:59:01.521Z",
+              "WhenOpened": "2024-09-19T16:28:21.544Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MySqlContext.cs",
-              "DocumentMoniker": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S8-MicroServices_DorNet6_OrganizingMyFisrtMicroServiceArchiteture\\geekShopping\\GeekShopping.ProductAPI\\Model\\Context\\MySqlContext.cs",
-              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Model\\Context\\MySqlContext.cs",
-              "ToolTip": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S8-MicroServices_DorNet6_OrganizingMyFisrtMicroServiceArchiteture\\geekShopping\\GeekShopping.ProductAPI\\Model\\Context\\MySqlContext.cs",
-              "RelativeToolTip": "GeekShopping.ProductAPI\\Model\\Context\\MySqlContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T16:35:55.395Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S8-MicroServices_DorNet6_OrganizingMyFisrtMicroServiceArchiteture\\geekShopping\\GeekShopping.ProductAPI\\Model\\Base\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Model\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S8-MicroServices_DorNet6_OrganizingMyFisrtMicroServiceArchiteture\\geekShopping\\GeekShopping.ProductAPI\\Model\\Base\\BaseEntity.cs",
-              "RelativeToolTip": "GeekShopping.ProductAPI\\Model\\Base\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T16:31:59.456Z"
             }
           ]
         }

@@ -10,6 +10,5 @@ namespace GeekShopping.ProductAPI.Repository
         Task<ProductVO> Create(ProductVO vo);
         Task<ProductVO> UpdateByID(ProductVO vo);
         Task<bool> DeleteByID(long id);
-
     }
 }

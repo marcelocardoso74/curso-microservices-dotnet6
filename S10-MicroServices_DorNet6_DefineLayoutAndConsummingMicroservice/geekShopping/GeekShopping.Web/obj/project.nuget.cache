@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fTBOn0YMu1Q=",
+  "dgSpecHash": "ki1N+zoDhME=",
   "success": true,
-  "projectFilePath": "C:\\CÓDIGOS GIT\\curso-microservices-dotnet\\S9-MicroServices_DorNet6_ConsummingProductMicroserviceWebAPI\\geekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+  "projectFilePath": "C:\\CÓDIGOS GIT\\curso-microservices-dotnet\\S10-MicroServices_DorNet6_DefineLayoutAndConsummingMicroservice\\geekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

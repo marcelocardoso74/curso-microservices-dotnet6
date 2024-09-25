@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CÓDIGOS GIT\\curso-microservices-dotnet\\S9-MicroServices_DorNet6_ConsummingProductMicroserviceWebAPI\\geekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+      "projectUniqueName": "C:\\CÓDIGOS GIT\\curso-microservices-dotnet\\S10-MicroServices_DorNet6_DefineLayoutAndConsummingMicroservice\\geekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
       "projectName": "GeekShopping.Web",
-      "projectPath": "C:\\CÓDIGOS GIT\\curso-microservices-dotnet\\S9-MicroServices_DorNet6_ConsummingProductMicroserviceWebAPI\\geekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+      "projectPath": "C:\\CÓDIGOS GIT\\curso-microservices-dotnet\\S10-MicroServices_DorNet6_DefineLayoutAndConsummingMicroservice\\geekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\CÓDIGOS GIT\\curso-microservices-dotnet\\S9-MicroServices_DorNet6_ConsummingProductMicroserviceWebAPI\\geekShopping\\GeekShopping.Web\\obj\\",
+      "outputPath": "C:\\CÓDIGOS GIT\\curso-microservices-dotnet\\S10-MicroServices_DorNet6_DefineLayoutAndConsummingMicroservice\\geekShopping\\GeekShopping.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

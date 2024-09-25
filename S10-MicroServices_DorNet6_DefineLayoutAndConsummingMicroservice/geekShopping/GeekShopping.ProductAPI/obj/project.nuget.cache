@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WTiP14acWys=",
+  "dgSpecHash": "9E6/OGcouao=",
   "success": true,
-  "projectFilePath": "C:\\CÓDIGOS GIT\\curso-microservices-dotnet\\S9-MicroServices_DorNet6_ConsummingProductMicroserviceWebAPI\\geekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+  "projectFilePath": "C:\\CÓDIGOS GIT\\curso-microservices-dotnet\\S10-MicroServices_DorNet6_DefineLayoutAndConsummingMicroservice\\geekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

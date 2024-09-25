@@ -1,26 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S9-MicroServices_DorNet6_ConsummingProductMicroserviceWebAPI\\geekShopping\\",
+  "WorkspaceRootPath": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S10-MicroServices_DorNet6_DefineLayoutAndConsummingMicroservice\\geekShopping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C64DA7C-5F73-4EB9-8012-5CAAE362F76D}|GeekShopping.Web\\GeekShopping.Web.csproj|c:\\c\u00F3digos git\\curso-microservices-dotnet\\s9-microservices_dornet6_consummingproductmicroservicewebapi\\geekshopping\\geekshopping.web\\services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C64DA7C-5F73-4EB9-8012-5CAAE362F76D}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C64DA7C-5F73-4EB9-8012-5CAAE362F76D}|GeekShopping.Web\\GeekShopping.Web.csproj|c:\\c\u00F3digos git\\curso-microservices-dotnet\\s10-microservices_dornet6_definelayoutandconsummingmicroservice\\geekshopping\\geekshopping.web\\views\\product\\productindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C64DA7C-5F73-4EB9-8012-5CAAE362F76D}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\views\\product\\productindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C64DA7C-5F73-4EB9-8012-5CAAE362F76D}|GeekShopping.Web\\GeekShopping.Web.csproj|c:\\c\u00F3digos git\\curso-microservices-dotnet\\s9-microservices_dornet6_consummingproductmicroservicewebapi\\geekshopping\\geekshopping.web\\services\\iservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C64DA7C-5F73-4EB9-8012-5CAAE362F76D}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\services\\iservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C64DA7C-5F73-4EB9-8012-5CAAE362F76D}|GeekShopping.Web\\GeekShopping.Web.csproj|c:\\c\u00F3digos git\\curso-microservices-dotnet\\s9-microservices_dornet6_consummingproductmicroservicewebapi\\geekshopping\\geekshopping.web\\utils\\httpclientextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C64DA7C-5F73-4EB9-8012-5CAAE362F76D}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\utils\\httpclientextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C64DA7C-5F73-4EB9-8012-5CAAE362F76D}|GeekShopping.Web\\GeekShopping.Web.csproj|c:\\c\u00F3digos git\\curso-microservices-dotnet\\s9-microservices_dornet6_consummingproductmicroservicewebapi\\geekshopping\\geekshopping.web\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C64DA7C-5F73-4EB9-8012-5CAAE362F76D}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C64DA7C-5F73-4EB9-8012-5CAAE362F76D}|GeekShopping.Web\\GeekShopping.Web.csproj|c:\\c\u00F3digos git\\curso-microservices-dotnet\\s9-microservices_dornet6_consummingproductmicroservicewebapi\\geekshopping\\geekshopping.web\\geekshopping.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0C64DA7C-5F73-4EB9-8012-5CAAE362F76D}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\geekshopping.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0C64DA7C-5F73-4EB9-8012-5CAAE362F76D}|GeekShopping.Web\\GeekShopping.Web.csproj|c:\\c\u00F3digos git\\curso-microservices-dotnet\\s10-microservices_dornet6_definelayoutandconsummingmicroservice\\geekshopping\\geekshopping.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0C64DA7C-5F73-4EB9-8012-5CAAE362F76D}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S9-MicroServices_DorNet6_ConsummingProductMicroserviceWebAPI\\geekShopping\\GeekShopping.Web\\Services\\IServices\\ProductService.cs",
-              "RelativeDocumentMoniker": "GeekShopping.Web\\Services\\IServices\\ProductService.cs",
-              "ToolTip": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S9-MicroServices_DorNet6_ConsummingProductMicroserviceWebAPI\\geekShopping\\GeekShopping.Web\\Services\\IServices\\ProductService.cs",
-              "RelativeToolTip": "GeekShopping.Web\\Services\\IServices\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T15:26:12.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HttpClientExtensions.cs",
-              "DocumentMoniker": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S9-MicroServices_DorNet6_ConsummingProductMicroserviceWebAPI\\geekShopping\\GeekShopping.Web\\Utils\\HttpClientExtensions.cs",
-              "RelativeDocumentMoniker": "GeekShopping.Web\\Utils\\HttpClientExtensions.cs",
-              "ToolTip": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S9-MicroServices_DorNet6_ConsummingProductMicroserviceWebAPI\\geekShopping\\GeekShopping.Web\\Utils\\HttpClientExtensions.cs",
-              "RelativeToolTip": "GeekShopping.Web\\Utils\\HttpClientExtensions.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAADYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T14:57:49.771Z",
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S10-MicroServices_DorNet6_DefineLayoutAndConsummingMicroservice\\geekShopping\\GeekShopping.Web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "GeekShopping.Web\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S10-MicroServices_DorNet6_DefineLayoutAndConsummingMicroservice\\geekShopping\\GeekShopping.Web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "GeekShopping.Web\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-25T16:00:57.317Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S9-MicroServices_DorNet6_ConsummingProductMicroserviceWebAPI\\geekShopping\\GeekShopping.Web\\Services\\IServices\\IProductService.cs",
-              "RelativeDocumentMoniker": "GeekShopping.Web\\Services\\IServices\\IProductService.cs",
-              "ToolTip": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S9-MicroServices_DorNet6_ConsummingProductMicroserviceWebAPI\\geekShopping\\GeekShopping.Web\\Services\\IServices\\IProductService.cs",
-              "RelativeToolTip": "GeekShopping.Web\\Services\\IServices\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T14:51:58.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GeekShopping.Web",
-              "DocumentMoniker": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S9-MicroServices_DorNet6_ConsummingProductMicroserviceWebAPI\\geekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
-              "RelativeDocumentMoniker": "GeekShopping.Web\\GeekShopping.Web.csproj",
-              "ToolTip": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S9-MicroServices_DorNet6_ConsummingProductMicroserviceWebAPI\\geekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
-              "RelativeToolTip": "GeekShopping.Web\\GeekShopping.Web.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-24T14:50:58.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductModel.cs",
-              "DocumentMoniker": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S9-MicroServices_DorNet6_ConsummingProductMicroserviceWebAPI\\geekShopping\\GeekShopping.Web\\Models\\ProductModel.cs",
-              "RelativeDocumentMoniker": "GeekShopping.Web\\Models\\ProductModel.cs",
-              "ToolTip": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S9-MicroServices_DorNet6_ConsummingProductMicroserviceWebAPI\\geekShopping\\GeekShopping.Web\\Models\\ProductModel.cs",
-              "RelativeToolTip": "GeekShopping.Web\\Models\\ProductModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T14:49:50.335Z",
+              "Title": "ProductIndex.cshtml",
+              "DocumentMoniker": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S10-MicroServices_DorNet6_DefineLayoutAndConsummingMicroservice\\geekShopping\\GeekShopping.Web\\Views\\Product\\ProductIndex.cshtml",
+              "RelativeDocumentMoniker": "GeekShopping.Web\\Views\\Product\\ProductIndex.cshtml",
+              "ToolTip": "C:\\C\u00D3DIGOS GIT\\curso-microservices-dotnet\\S10-MicroServices_DorNet6_DefineLayoutAndConsummingMicroservice\\geekShopping\\GeekShopping.Web\\Views\\Product\\ProductIndex.cshtml",
+              "RelativeToolTip": "GeekShopping.Web\\Views\\Product\\ProductIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T15:55:08.786Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,178 @@
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\appsettings.json
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.exe
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.deps.json
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.runtimeconfig.json
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\ref\GeekShopping.ProductAPI.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.pdb
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.csproj.AssemblyReference.cache
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.AssemblyInfoInputs.cache
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.AssemblyInfo.cs
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.csproj.CoreCompileInputs.cache
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\staticwebassets\GeekShopping.ProductAPI.StaticWebAssets.Manifest.cache
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\scopedcss\bundle\GeekShopping.ProductAPI.styles.css
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.csproj.CopyComplete
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\ref\GeekShopping.ProductAPI.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.pdb
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.genruntimeconfig.cache
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\MySqlConnector.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\appsettings.json
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.exe
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.deps.json
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.runtimeconfig.json
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.dll
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\ref\GeekShopping.ProductAPI.dll
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.pdb
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\MySqlConnector.dll
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.csproj.AssemblyReference.cache
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.AssemblyInfoInputs.cache
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.AssemblyInfo.cs
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.csproj.CoreCompileInputs.cache
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\staticwebassets\GeekShopping.ProductAPI.StaticWebAssets.Manifest.cache
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\scopedcss\bundle\GeekShopping.ProductAPI.styles.css
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.csproj.CopyComplete
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.dll
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\ref\GeekShopping.ProductAPI.dll
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.pdb
+D:\Code\erudio-microservices-dotnet6\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.genruntimeconfig.cache
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\appsettings.json
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.exe
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.deps.json
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.runtimeconfig.json
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.dll
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\ref\GeekShopping.ProductAPI.dll
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.pdb
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\MySqlConnector.dll
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.csproj.AssemblyReference.cache
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.AssemblyInfoInputs.cache
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.AssemblyInfo.cs
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.csproj.CoreCompileInputs.cache
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\staticwebassets\GeekShopping.ProductAPI.StaticWebAssets.Manifest.cache
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\scopedcss\bundle\GeekShopping.ProductAPI.styles.css
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.csproj.CopyComplete
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.dll
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\ref\GeekShopping.ProductAPI.dll
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.pdb
+D:\Code\erudio-microservices-dotnet6\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.genruntimeconfig.cache
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\appsettings.json
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.exe
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.deps.json
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.runtimeconfig.json
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.dll
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.pdb
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Humanizer.dll
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.csproj.AssemblyReference.cache
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.AssemblyInfoInputs.cache
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.AssemblyInfo.cs
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.csproj.CoreCompileInputs.cache
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.sourcelink.json
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\staticwebassets\msbuild.GeekShopping.ProductAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.GeekShopping.ProductAPI.props
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GeekShopping.ProductAPI.props
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GeekShopping.ProductAPI.props
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\scopedcss\bundle\GeekShopping.ProductAPI.styles.css
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShop.CAC5A1C3.Up2Date
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.dll
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\refint\GeekShopping.ProductAPI.dll
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.pdb
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.genruntimeconfig.cache
+C:\CÓDIGOS GIT\curso-microservices-dotnet\S10-MicroServices_DotNet6_DefiningTheLayoutAndConsumingMicroservice\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\ref\GeekShopping.ProductAPI.dll

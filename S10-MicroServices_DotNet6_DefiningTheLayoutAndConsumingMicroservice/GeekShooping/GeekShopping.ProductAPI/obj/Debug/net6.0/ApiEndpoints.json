@@ -1,0 +1,116 @@
+[
+  {
+    "ContainingType": "GeekShopping.ProductAPI.Controllers.ProductController",
+    "Method": "FindAll",
+    "RelativePath": "api/v1/Product",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[GeekShopping.ProductAPI.Data.ValueObjects.ProductVO, GeekShopping.ProductAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GeekShopping.ProductAPI.Controllers.ProductController",
+    "Method": "Create",
+    "RelativePath": "api/v1/Product",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vo",
+        "Type": "GeekShopping.ProductAPI.Data.ValueObjects.ProductVO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GeekShopping.ProductAPI.Data.ValueObjects.ProductVO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GeekShopping.ProductAPI.Controllers.ProductController",
+    "Method": "Update",
+    "RelativePath": "api/v1/Product",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vo",
+        "Type": "GeekShopping.ProductAPI.Data.ValueObjects.ProductVO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GeekShopping.ProductAPI.Data.ValueObjects.ProductVO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GeekShopping.ProductAPI.Controllers.ProductController",
+    "Method": "FindById",
+    "RelativePath": "api/v1/Product/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GeekShopping.ProductAPI.Data.ValueObjects.ProductVO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GeekShopping.ProductAPI.Controllers.ProductController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Product/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
